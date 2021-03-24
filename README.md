@@ -36,5 +36,7 @@ O Recipe App, consegue mostrar aos usuários: Título, Ingredientes, Imagem e a 
 
 # Resultado
 
-Esse projeto está hospedado no GitHub Pages, portanto, você pode acessar os resultados [clicando aqui]().
+Esse projeto está hospedado no GitHub Pages, portanto, você pode acessar os resultados [clicando aqui](https://soaresmilton.github.io/recipeApp/).
+
+Obs: Até o momento o layout é bem simplista e não está responsivo. Objetiva-se, conforme o entedimento do React, futuramente repaginar todo esse projeto de forma a deixá-lo com uma boa UI/UX.
 
