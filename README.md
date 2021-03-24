@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+<div align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Recipe React App
 
-## Available Scripts
+Recipe React App é um um projeto feito como introdução aos conceitos de React
+  <h2>How to contact me:</h2>
+<a href="https://www.linkedin.com/in/soaresmilton/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a>
+<a href="https://www.youtube.com/channel/UCMsbUh0LDOMQCTBdBXwkFiQ" target="_blank">
+<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/soaresmiltinho/" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</div>
+</div>
 
-In the project directory, you can run:
+<br>
+<br>
 
-### `npm start`
+# Motivações e objetivo desse projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+O Recipe App é um projeto feito seguindo o tutorial do Ed Dev, o qual você pode acessar [clicando aqui](https://www.youtube.com/watch?v=U9T6YkEDkMo).
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+O intuito principal desse projeto foi iniciar os estudos básicos a respeito da bliblioteca [React](https://pt-br.reactjs.org/), objetivando conhecer um pouco melhor os famosos componentes React e suas vantagens para o desenvolvimento de aplicativos escaláveis, principalmente devido a sua praticidade para manutenção de código.
 
-### `npm test`
+# Descrição do projeto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+O projeto, por sua vez, é um buscador de receitas. Basta digitar uma palavra chave no buscador e o App retornará 10 receitas contendo essa palavra chave.
 
-### `npm run build`
+Para construção desse aplicativo, por baixo dos panos, estamos consumindo uma API chamada [EDAMAM](https://www.edamam.com/). Ela nos permnite essa lsitagem de receitas, nos oferecendo até 10 requisções por minuto, podendo obter várias informações das receitas disponíveis do seu banco de dados.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+O Recipe App, consegue mostrar aos usuários: Título, Ingredientes, Imagem e a Caloria do prato. E
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Resultado
 
-### `npm run eject`
+Esse projeto está hospedado no GitHub Pages, portanto, você pode acessar os resultados [clicando aqui]().
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
